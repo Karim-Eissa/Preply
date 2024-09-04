@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "title" : "Go to the gym",
+        "status" : true
+    },
+    {
+        "id" : 2,
+        "title" : "Study for finals",
+        "status" : false
+    },
+     {
+        "id" : 3,
+        "title" : "Attend Preply meeting",
+        "status" : true
+    }
+]
